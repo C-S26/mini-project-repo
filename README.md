@@ -63,3 +63,6 @@ python face_recognition_app.py
 
 - Accuracy displayed live in the GUI.
 - Based on cosine similarity between known and detected faces.
+
+
+![Build Status](https://github.com/C-S26/GAN_Model/actions/workflows/build.yml/badge.svg)
