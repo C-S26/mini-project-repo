@@ -65,4 +65,4 @@ python face_recognition_app.py
 - Based on cosine similarity between known and detected faces.
 
 
-![Build Status](https://github.com/C-S26/GAN_Model/actions/workflows/build.yml/badge.svg)
+![Build Status](https://github.com/C-S26/GAN_Model/actions/workflows/un-face-recognition.yml/badge.svg)
